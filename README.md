@@ -6,7 +6,7 @@ Discover the crazy PDF presentation created using the open source tools Xournal+
 
 [Crazy_confusing_presentation_GLAMHack2026_AI_crawlers_Xournal_pp_GIMP.pdf](./Crazy_confusing_presentation_GLAMHack2026_AI_crawlers_Xournal_pp_GIMP.pdf)
 
-![Crazy_confusing_presentation_GLAMHack2026_AI_crawlers_Xournal_pp_GIMP.png](./Crazy_confusing_presentation_GLAMHack2026_AI_crawlers_Xournal_pp_GIMP.pdf)
+![Crazy_confusing_presentation_GLAMHack2026_AI_crawlers_Xournal_pp_GIMP.png](./Crazy_confusing_presentation_GLAMHack2026_AI_crawlers_Xournal_pp_GIMP.png)
 
 -----
 
