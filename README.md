@@ -21,7 +21,9 @@ https://github.com/valerio-bozzolan/PHP-AI-Labyrinth
 ## Presentation Methodology
 
 - using the free/libre and open source software LibreOffice to post-produce slides
-- using the free/libre and open source software Xournal++ to create a nonsense aggregate
+- using the free/libre and open source software 'pdfseparate' to separate PDF slides
+- using the free/libre and open source software GIMP to convert PDF files to PNG files (for Xournal++)
+- using the free/libre and open source software Xournal++ to create a nonsense aggregate of slides and images
 - using the free/libre and open source software GIMP to add peppers live during the show \o/
 
 ## License
